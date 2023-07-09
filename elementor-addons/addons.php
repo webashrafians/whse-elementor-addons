@@ -1,5 +1,6 @@
 <?php
 
+// widgets adds
 function ashraf_tt_one_child_widgets( $widgets_manager){
     
 	require_once( __DIR__ . '/widgets/hello-world.php' );

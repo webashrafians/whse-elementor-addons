@@ -17,7 +17,6 @@ if (in_array('elementor/elementor.php', apply_filters('active_plugins', get_opti
     */
 
     // Add Custom Addons
- 
     include_once('elementor-addons/addons.php');
 
     // Add admin notice
