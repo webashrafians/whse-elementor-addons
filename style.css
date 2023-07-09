@@ -1,0 +1,46 @@
+/*
+Theme Name: Twenty Twenty-One Child
+Theme URI: https://yourwebsite.com/
+Description: Child theme for Twenty Twenty-One
+Author: Md Ashraful Alam
+Author URI: https://github.com/webashrafians
+Template: twentytwentyone
+Version: 1.0.0
+*/
+
+/* Add your custom styles below this line */
+
+
+
+
+
+/* my style */
+ul.menu {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+ul.menu li a {
+    padding: 10px 20px;
+    display: block;
+}ul.menu {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+ul.menu li a {
+    padding: 10px 20px;
+    display: block;
+}
+
+body{
+    background: red;
+}
